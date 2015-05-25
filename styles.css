@@ -1,0 +1,41 @@
+button{
+ width: 50%;
+ color: white;
+ display: block;
+ margin: auto;
+ font-size: 2em;
+ border-radius: 15px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+#btn1{
+	background-color: blue;
+}
+
+#btn2{
+	background-color: red;
+}
+
+#btn3{
+	background-color: orange;
+}
+
+#btn4{
+	background-color: violet;
+}
+
+#btn5{
+	background-color: green;
+}
+
+
+#btn6{
+	background-color: black;
+}
+
+#btn7{
+	background-color: brown;
+}
